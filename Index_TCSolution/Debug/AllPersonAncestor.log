@@ -1,0 +1,14 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AllPersonAncestor.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Index_TCSolution.cpp
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\datalog.h(10,49): error C2059: 语法错误:“,”
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(22,1): warning C4005: “_CRT_SECURE_NO_DEPRECATE”: 宏重定义
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\stdafx.cpp : message : 参见“_CRT_SECURE_NO_DEPRECATE”的前一个定义
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(709,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(719,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(1226,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(1226,9): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\Index_TCSolution.cpp(1226,9): message : 缺失的可变参数 2 为格式字符串“%f”所需
+  mmp.cpp
+  正在生成代码...
+C:\Users\王紫未的帅老公\Desktop\实验室文档\规则各功能封装源代码\规则各功能封装\Index_TCSolution\mmp.cpp(52): warning C4715: “open_mmap”: 不是所有的控件路径都返回值
