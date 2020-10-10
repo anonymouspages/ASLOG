@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  AllPersonAncestor.cpp
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(274,13): warning C4101: “i”: 未引用的局部变量
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(569,16): warning C4101: “j”: 未引用的局部变量
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(572,7): warning C4101: “str”: 未引用的局部变量
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(674,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(793,9): warning C4101: “e”: 未引用的局部变量
+  mmp.cpp
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(784,35): warning C4101: “t1”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(565): warning C4715: “Search_block”: 不是所有的控件路径都返回值
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\AllPersonAncestor.cpp(109): warning C4715: “str_cmp”: 不是所有的控件路径都返回值
+E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\AllPersonAncestor\mmp.cpp(52): warning C4715: “open_mmap”: 不是所有的控件路径都返回值
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AllPersonAncestor.vcxproj -> E:\传递闭包\ConsoleApplication1\求所有人祖先10.31\Release\AllPersonAncestor.exe
