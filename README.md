@@ -1,7 +1,7 @@
 # ASLOG
 This is an anonymous repo for keeping the codes the documents of ASLOG.
 
-For detailed author response, please refer to response.pdf
+Our complementary material on the experimental result in test.pdf
 
 All the source code and dll function are in the .rar file.
 
